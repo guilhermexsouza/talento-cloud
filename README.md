@@ -1,3 +1,3 @@
 # Talento cloud
 
-Repositório destinado a projetos e exercícios do curso Talento Clound.
+Repositório destinado a projetos e exercícios do curso Talento Cloud.
