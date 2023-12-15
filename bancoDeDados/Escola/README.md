@@ -6,3 +6,5 @@ De acordo com os comandos aprendidos, programe códigos SQL para criar um banco 
 4. adicione um atributo nome do tipo varchar;
 5. adicione um atributo e-mail do tipo varchar;
 6. adicione um atributo endereço do tipo varchar.
+
+Foi utilizado MySQL
